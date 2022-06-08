@@ -1,23 +1,22 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include "main.h"
 
 /**
- * main - Prints the alphabet without q and e.
+ * _isalpha - Shows 1 if the input is a
+ * letter Another cases, shows 0
  *
- * Return: Always 0 (Success)
+ * @c: The character in ASCII code
+ *
+ * Return: 1 for letters. 0 for the rest.
  */
-int main(void)
+int _isalpha(int c)
 {
-	int i;
-
-	for (i = 97; i < 123; i++)
+	if ((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
 	{
-		if (i != 101 && i != 113)
-		{
-			putchar(i);
-		}
+		return (1);
 	}
-	putchar('\n');
-	return (0);
+	else
+	{
+		return (0);
+	}
+	_putchar('\n');
 }
