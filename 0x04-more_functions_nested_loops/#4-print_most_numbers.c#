@@ -1,0 +1,44 @@
+
+#include "main.h"
+
+/**
+ * print_most_numbers - prints numbers between 0 to 9
+ * (neither 2 nor 4).
+ * Return: no return.
+ */
+root@85c8576b8195:/alx-low_level_programming# git commit -m 'I believe in numbers and signs'
+[master 7720327] I believe in numbers and signs
+2 files changed, 19 insertions(+)
+ create mode 100644 0x04-more_functions_nested_loops/4-print_most_numbers.c
+  root@85c8576b8195:/alx-low_level_programming# git push
+  Password for 'https://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@github.com':
+  Enumerating objects: 8, done.
+    Counting objects: 100% (8/8), done.
+Delta compression using up to 2 threads
+      Compressing objects: 100% (5/5), done.
+      Writing objects: 100% (5/5), 691 bytes | 691.00 KiB/s, done.
+      Total 5 (delta 3), reused 0 (delta 0)
+      remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+      To https://github.com/folly2022/alx-low_level_programming.git
+   9753039..7720327  master -> master
+      root@85c8576b8195:/alx-low_level_programming# echo '5.  a function that prints 10 times the numbers, from 0 to 14, followed by a new line.' >> 0x04-more_functions_nested_loops/README.md
+    root@85c8576b8195:/alx-low_level_programming# emacs 0x04-more_functions_nested_loops/README.md
+    root@85c8576b8195:/alx-low_level_programming#
+#include "main.h"
+
+/**
+ * print_most_numbers - prints numbers between 0 to 9
+ * (neither 2 nor 4).
+ * Return: no return.
+ */
+void print_most_numbers(void)
+{
+	int ch;
+
+	for (ch = 48; ch < 58; ch++)
+	{
+		if (ch != 50 && ch != 52)
+			_putchar(ch);
+	}
+	_putchar('\n');
+}
