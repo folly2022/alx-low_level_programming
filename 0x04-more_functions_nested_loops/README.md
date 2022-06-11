@@ -8,3 +8,4 @@ This project is about how to use more functions in c-programming
 6.   a function that draws a straight line in the terminal.
 7. a function that draws a diagonal line on the terminal
 8. a function that draws a diagonal line on the terminal
+9. a program that prints the numbers from 1 to 100
