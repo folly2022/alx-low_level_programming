@@ -6,3 +6,4 @@ This project is about how to use more functions in c-programming
 4. a function that prints the numbers, from 0 to 9, followed by a new line.
 5.  a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 6.   a function that draws a straight line in the terminal.
+7. a function that draws a diagonal line on the terminal
