@@ -10,3 +10,4 @@ This project is about how to use more functions in c-programming
 8. a function that draws a diagonal line on the terminal
 9. a program that prints the numbers from 1 to 100
 10.  a function that prints a triangle, followed by a new line
+11.a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.  
