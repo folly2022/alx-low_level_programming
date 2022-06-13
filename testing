@@ -1,0 +1,47 @@
+I am a multibillionnaire software engineer that impacts peoples'lives all over the world and that would be highly successful in this world and the hereafter.
+
+#include "main.h"
+
+/**
+ * _isupper - checks if parameter is an uppercase character.
+ * @c: input character.
+ * Return: 1 if is an uppercase character, 0 in other case.
+ */
+int _isupper(int c)
+{
+	if (c >= 65 && c <= 90)
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
+}
+
+emacs 0x04-more_functions_nested_loops/main.h
+
+#ifndef _MAIN_H_
+#define _MAIN_H_
+
+int _isupper(int c);
+int _isdigit(int c);
+int mul(int a, int b);
+void print_numbers(void);
+int _putchar(char);
+void print_most_numbers(void);
+void more_numbers(void);
+void print_line(int n);
+void print_diagonal(int n);
+void print_square(int size);
+void print_triangle(int size);
+void print_number(int n);
+
+#endif
+
+betty 0x04-more_functions_nested_loops/0-isupper.c
+
+git add .
+git commit -m 'isupper'
+git push
+old password or token: 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
