@@ -9,3 +9,4 @@ This project is about how to use More pointers, arrays and strings in c-programm
 6. a function that capitalizes all words of a string.
 7.a function that encodes a string into 1337.
 8. a function that encodes a string using rot13.
+9.a function that prints an integer.
