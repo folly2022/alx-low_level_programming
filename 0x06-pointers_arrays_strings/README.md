@@ -10,3 +10,4 @@ This project is about how to use More pointers, arrays and strings in c-programm
 7.a function that encodes a string into 1337.
 8. a function that encodes a string using rot13.
 9.a function that prints an integer.
+10. the program prints a[2] = 98, followed by a new line.
