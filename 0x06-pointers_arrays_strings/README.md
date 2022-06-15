@@ -3,3 +3,4 @@ This project is about how to use More pointers, arrays and strings in c-programm
 0. a function that concatenates two strings.
 1.  a function that concatenates two strings with integer n.
 2. a function that copies a string.
+3.a function that compares two strings.
