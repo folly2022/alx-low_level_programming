@@ -7,3 +7,4 @@ This project is about how to use Even more pointers, arrays and strings in c-pro
 4. a function that searches a string for any of a set of bytes.
 5.  a function that locates a substring.
 6. a function that prints the chessboard.
+7. a function that prints the sum of the two diagonals of a square matrix of integers.
