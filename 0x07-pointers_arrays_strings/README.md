@@ -8,3 +8,4 @@ This project is about how to use Even more pointers, arrays and strings in c-pro
 5.  a function that locates a substring.
 6. a function that prints the chessboard.
 7. a function that prints the sum of the two diagonals of a square matrix of integers.
+8.  a function that sets the value of a pointer to a char.
