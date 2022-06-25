@@ -4,3 +4,4 @@ This project is about how to use arguments passed to your program in c-programs
 1. a program that prints the number of arguments passed into it.
 2.  a program that prints all arguments it receives.
 3. a program that multiplies two numbers.
+4. a program that adds positive numbers.
