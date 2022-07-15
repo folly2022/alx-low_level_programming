@@ -60,8 +60,6 @@ types and functions written for the project.
   * [101-hello_holberton.asm](./101-hello_holberton.asm): 64-but assembly program
   that prints `Hello, Holberton` followed by a new line using only the
   `printf` function witout interrupts.
----
-**Author: Firdaus H. Salim**
-#
-**Date: Thursday 29th July 2021**
+
+
 
